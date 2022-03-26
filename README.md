@@ -3,7 +3,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at Unicarioca.
 - 🔭 &nbsp; I’m currently working on <a href="http://www.mestrainfo.com.br/site/" target="_blank">Mestra Informatica</a> as Developer
-- 🌱 &nbsp; I’m currently learning:  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+- 🌱 &nbsp; I’m currently learning: [React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="300"/>
 
 
